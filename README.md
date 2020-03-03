@@ -1,5 +1,5 @@
 # Pre-training for Data Structure with C (12/2/2020 ~ )
-## 1.Recurrence
+## 1. Recurrence
 * 팩토리얼
 * 피보나치
 * 최대공약수 구하기
