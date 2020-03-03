@@ -8,7 +8,8 @@
 * swap함수 구현
 ---
 ## 2. Stack
-* 스택함수 구현(empty,full,push,pop)
+* 스택함수 구현
+   * empty,full,push,pop
 * 괄호검사
 * 후위표기식 계산
 * 미로탐색
