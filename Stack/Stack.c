@@ -24,7 +24,7 @@ void push(element item)
 	}
 	else stack[++top] = item;
 }
-//삭제 함수
+//삭제 함수입니다
 element pop()
 {
 	if (is_empty()) {
